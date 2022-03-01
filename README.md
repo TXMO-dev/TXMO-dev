@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TXMO-dev
-- 👀 I’m asoftware engineer
+- 👀 I’m a software engineer
 - 🌱 I’m currently learningTest Driven Development, Docker, Kubernetes, Microsoft .NET
 - 👨‍💻 I have worked on projects in both C# and Javascriot
 - 💞️ I’m looking to collaborate on projects that will challenge me and build my expertise.
