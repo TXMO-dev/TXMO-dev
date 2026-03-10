@@ -81,7 +81,7 @@ If you’re a **business looking to partner with us (B2B)** or a **customer look
 ## 📫 Contact Me
 
 - Email: [timothy.asigbey@midaspathsoftwaresolutions.com](mailto:timothy.asigbey@midaspathsoftwaresolutions.com) | [asigbeytimothy@gmail.com](mailto:asigbeytimothy@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/asigbeytimothy](https://www.linkedin.com/in/asigbeytimothy) | [https://www.linkedin.com/company/midaspathsoftwaresolutions]([https://www.linkedin.com/company/midaspathsoftwaresolutions.com](https://www.linkedin.com/company/midas-path-software-solutions)   
+- LinkedIn: [https://www.linkedin.com/in/asigbeytimothy](https://www.linkedin.com/in/asigbeytimothy) | [https://www.linkedin.com/company/midas-path-software-solutions](https://www.linkedin.com/company/midas-path-software-solutions)   
 - Portfolio: [https://midaspathsoftwaresolutions.com](https://midaspathsoftwaresolutions.com)  
 
 ---
