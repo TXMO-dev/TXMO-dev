@@ -26,13 +26,6 @@ I have contributed to projects ranging from **enterprise-grade systems** to **de
 
 ---
 
-## 🔗 Current Projects
-
-- **[Midas Path Software Solutions Open-Source Tools](https://www.midaspathsoftwaresolutions.com)** – Public .NET & TypeScript libraries for mapping, validation, and mediators.  
-Got it! Since your **current project in 2026** seems to be focused on **developer tooling and open-source libraries** at **Midas Path Software Solutions**, here’s a concise **list of your recent/current projects** for your GitHub README or portfolio:
-
----
-
 ## 🔗 Recent Projects
 
 1. **Midas.Mapper**
